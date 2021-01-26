@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Logan Boyd
+## Learning how to use Github!
